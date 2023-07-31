@@ -51,11 +51,11 @@ class Queue{
 class solution {
     public static void main(String[] args) {
         Queue queue = new Queue();
-        queue.enQueue(10);
-        queue.enQueue(12);
+        queue.enQueue(23);
+        queue.enQueue(9);
         queue.enQueue(3);
-        queue.enQueue(4);
-        queue.enQueue(6);
+        queue.enQueue(22);
+        queue.enQueue(12);
         queue.deQueue();
         queue.deQueue();
         queue.deQueue();
