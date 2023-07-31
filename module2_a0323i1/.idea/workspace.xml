@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f5ddc55-8b9a-4f25-a38d-7290d49cb62d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../src/ss6_kế_thừa/bai_tap/testcircle_cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ss9_DSA/thuc_hanh/MylistTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ss9_DSA/thuc_hanh/mylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/ss6_kế_thừa/bai_tap/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/ss6_kế_thừa/bai_tap/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/ss6_kế_thừa/bai_tap/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/ss6_kế_thừa/bai_tap/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/ss10_DSA_stack_queue/bai_tap/dao_nguoc_stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/ss10_DSA_stack_queue/bai_tap/dem_so_lan_xuat_hien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/ss12_thuat_toan_tim_kiem/bai_tap/binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/ss12_thuat_toan_tim_kiem/bai_tap/string_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/ss9_DSA/bai_tap/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/ss9_DSA/bai_tap/MyListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
       <workItem from="1686635751503" duration="195000" />
       <workItem from="1689595805462" duration="4000" />
       <workItem from="1689595837201" duration="34000" />
+      <workItem from="1690545301758" duration="8000" />
     </task>
     <servers />
   </component>
